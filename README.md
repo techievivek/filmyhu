@@ -1,5 +1,6 @@
 # filmyhu
-FIlmyhu is a online movie streaming website using HTML,CSS,JS and PHP as backend, it has an admin panel that help you CRUD.
+Filmyhu is a online movie streaming website using HTML,CSS,JS and PHP as backend, it has an admin panel that help you CRUD
+![UI of Filmyhu Index page](https://raw.githubusercontent.com/techievivek/filmyhu/master/filmyhu.com.png)
 # How to use
 Please download the zip file(filmyhu.zip) and extract the files.
 # Database Connection
